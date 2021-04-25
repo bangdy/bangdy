@@ -16,7 +16,9 @@
 
 
 ### Achievements
-- 20.11 (병아리미팅 - https://byung-ari.me/)
+- 2020.11 (병아리미팅 - https://byung-ari.me/)
+
+******
 
 ![bangdy's github stats](https://github-readme-stats.vercel.app/api?username=bangdy&show_icons=true)
 
@@ -33,4 +35,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+참조한 프로필
+https://github.com/abhisheknaiidu/abhisheknaiidu
 -->
