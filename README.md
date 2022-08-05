@@ -1,9 +1,14 @@
 ## Hi there 👋
 
 
-### History
-- born in 1987
-- start coding since 2019 
+### Education & Study
+- 2013, Graduated from Korea University in 2013 (mechanical engineering)
+- 2016, 정보처리기사
+- 2019, Javascript (Jonas Schmedtmann, Udemy)
+- 2020, React (Maximilian Schwarzmüller, Udemy)
+- 2021, React Native (Maximilian Schwarzmüller, Udemy)
+- 2021, Google Machine Learning Bootcamp KR
+- 2021, Deep Learning Professional Certificate (Andrew ng, Coursera)
 
 
 ### My skills
