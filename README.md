@@ -1,15 +1,4 @@
-## Hi there 👋
-
-
-### Education & Study
-- 2013, Graduated from Korea University in 2013 (mechanical engineering)
-- 2016, 정보처리기사
-- 2019, Javascript (Jonas Schmedtmann, Udemy)
-- 2020, React (Maximilian Schwarzmüller, Udemy)
-- 2021, React Native (Maximilian Schwarzmüller, Udemy)
-- 2021, Google Machine Learning Bootcamp KR
-- 2021, Deep Learning Professional Certificate (Andrew ng, Coursera)
-
+# Hi there 👋
 
 ### My skills
 
@@ -17,11 +6,13 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
-
+and humor
 
 
 ### Achievements
 - 2020.11 (병아리미팅 - https://byung-ari.me/)
+- 2022.08 대동여화폐지도
+- 2023.03 skezulery
 
 ******
 
