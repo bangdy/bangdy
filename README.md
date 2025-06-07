@@ -10,9 +10,12 @@ and humor
 
 
 ### Achievements
-- 2020.11 (병아리미팅 - https://byung-ari.me/)
+- 2023.10 최저가 요정 또비 (운영 중)
 - 2022.08 대동여화폐지도
-- 2023.03 skezulery
+- 2023.03 skezulery (실패)
+- 2020.11 (병아리미팅 - https://byung-ari.me/)
+
+
 
 ******
 
